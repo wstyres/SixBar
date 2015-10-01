@@ -1,0 +1,10 @@
+Package: com.xtm3x.sixbar
+Name: SixBar
+Depends: mobilesubstrate
+Version: 0.0.5-beta
+Architecture: iphoneos-arm
+Description: SixBar rewrite --superduperalpha--
+Maintainer: xTheMaster3x <xtm3xyt@gmail.com>
+Author: xTheMaster3x <xtm3xyt@gmail.com>
+Section: Tweaks
+Depiction: http://repo.tm3dev.com/depics/sixbar.html
